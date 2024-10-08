@@ -1,5 +1,4 @@
-\\STILL AN WORK IN PROGRESS//
-\\STILL AN WORK IN PROGRESS//
+//STILL AN WORK IN PROGRESS//
 
 This HUD its an Modification of ToonHUD, all credit to them!
 
